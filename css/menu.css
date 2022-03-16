@@ -1,0 +1,19 @@
+.menu {
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+
+}
+
+.menu img {
+display: block;
+width: 35px;
+height: 35px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
